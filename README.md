@@ -1,4 +1,4 @@
-# ⚡ AnyKernel3 - Pure64 Edition
+# AnyKernel3 - Pure64
 
 [![Platform](https://img.shields.io/badge/Platform-Android-green.svg)](https://www.android.com)
 [![Architecture](https://img.shields.io/badge/Arch-arm64--v8a-blue.svg)]()
